@@ -1,0 +1,14 @@
+com\mycompany\robinsjolundimlamning4\entities\Studenter_.class
+com\mycompany\robinsjolundimlamning4\entities\Betyg_.class
+com\mycompany\robinsjolundinlamning4\businesslogic\Boundry.class
+com\mycompany\robinsjolundimlamning4\entities\BetygPK_.class
+com\mycompany\robinsjolundinlamning4\businesslogic\AbstractFacade.class
+com\mycompany\robinsjolundimlamning4\entities\Betyg.class
+com\mycompany\robinsjolundimlamning4\entities\Studenter.class
+com\mycompany\robinsjolundinlamning4\businesslogic\KurserFacade.class
+com\mycompany\robinsjolundimlamning4\entities\BetygPK.class
+com\mycompany\robinsjolundinlamning4\businesslogic\StudenterFacade.class
+com\mycompany\robinsjolundinlamning4\service\KurserServlet.class
+com\mycompany\robinsjolundimlamning4\entities\Kurser_.class
+com\mycompany\robinsjolundinlamning4\businesslogic\BetygFacade.class
+com\mycompany\robinsjolundimlamning4\entities\Kurser.class
